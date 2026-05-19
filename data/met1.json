@@ -1,0 +1,447 @@
+{
+  "exam": "PPL Exam Paper MET 1 – Meteorology",
+  "source": "Griffon Aviation (Avgoustinos) Ltd",
+  "total_questions": 40,
+  "questions": [
+    {
+      "id": 1,
+      "question": "An airfield 2400ft. AMSL has a QFE of 1008. The QNH is likely to be:",
+      "options": {
+        "a": "1000",
+        "b": "0998",
+        "c": "1016",
+        "d": "1013"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 2,
+      "question": "LCLK O40400 13005KT 7000 HZ SCT035 SCT045 14/12 Q1016 NOSIG",
+      "options": {
+        "a": "There is haze at Larnaca with a cloud base of 7000ft.",
+        "b": "The atmosphere at Larnaca is very dry and no significant change is forecast.",
+        "c": "There is haze at Larnaca with a visibility of 7000 meters.",
+        "d": "There are strong winds at Larnaca with stratocumulus at 3500 feet and 4500 feet."
+      },
+      "correct": "c"
+    },
+    {
+      "id": 3,
+      "question": "The ICAO published International Standard Atmosphere (ISA) is:",
+      "options": {
+        "a": "1013.2 hPa, +58 degrees F, density 1225 grams per cubic metre.",
+        "b": "1013.3 hPa, +13 degrees C, density 1235.2 grams per cubic metre.",
+        "c": "1013 0 hPa, +15 degrees F, density 1325 0 grams per cubic metre.",
+        "d": "1013.2 hPa, +15 degrees C, density 1225 grams per cubic metre."
+      },
+      "correct": "d"
+    },
+    {
+      "id": 4,
+      "question": "If you stand with your back to the wind in the Northern Hemisphere the high pressure will be:",
+      "options": {
+        "a": "On your left.",
+        "b": "On your right.",
+        "c": "In front of you.",
+        "d": "Behind you."
+      },
+      "correct": "b"
+    },
+    {
+      "id": 5,
+      "question": "Coriolis force deflects air moving south in the Northern Hemisphere:",
+      "options": {
+        "a": "Upwards.",
+        "b": "To the right.",
+        "c": "To the left.",
+        "d": "Coriolis force has no effect when air is moving south in the northern hemisphere."
+      },
+      "correct": "b"
+    },
+    {
+      "id": 6,
+      "question": "Flying near Troodos you see a long, thin lens-shaped cloud over the top of the mountains and another cloud downwind of the crest. You should anticipate the following conditions downwind of the mountains:",
+      "options": {
+        "a": "Smooth, descending air.",
+        "b": "Smooth rising air.",
+        "c": "Turbulent rising air.",
+        "d": "Turbulent descending air."
+      },
+      "correct": "d"
+    },
+    {
+      "id": 7,
+      "question": "Thunderstorms can occur in which of the following cases:",
+      "options": {
+        "a": "Along a cold front.",
+        "b": "On a hot summer day with stable air mass.",
+        "c": "During very cold and dry conditions.",
+        "d": "Over the mountains with very stable air mass."
+      },
+      "correct": "a"
+    },
+    {
+      "id": 8,
+      "question": "An aircraft is flying towards the coast from the sea on a QNH of 1030 and the altimeter shows 4000ft. If the pilot sets 1013 what pressure altitude will the altimeter show?",
+      "options": {
+        "a": "3500ft.",
+        "b": "4500ft.",
+        "c": "3700ft.",
+        "d": "4100ft."
+      },
+      "correct": "a"
+    },
+    {
+      "id": 9,
+      "question": "An aircraft departs airfield A which is 700 feet above mean sea level and has a QNH of 1010 which is set on the altimeter. The aircraft flies towards low pressure and the altimeter setting is not changed. A visual landing is made at airfield B which is 1400 feet above mean sea level. What will the altimeter read at B if the subscale setting remains unchanged and the QNH at B 995?",
+      "options": {
+        "a": "1750 ft.",
+        "b": "700 ft.",
+        "c": "1850 ft.",
+        "d": "1400 ft."
+      },
+      "correct": "c"
+    },
+    {
+      "id": 10,
+      "question": "Large super cooled water droplets striking a cold airframe are likely to form:",
+      "options": {
+        "a": "Rime ice.",
+        "b": "Clear ice.",
+        "c": "Frost",
+        "d": "No ice will form as the water is too cold."
+      },
+      "correct": "b"
+    },
+    {
+      "id": 11,
+      "question": "CAVOK means:",
+      "options": {
+        "a": "Visibility 10km or more, no cloud below 5000ft, no cumulonimbus and no significant weather in the vicinity of the aerodrome.",
+        "b": "Visibility unlimited, no cloud, no significant weather expected for 6 hours.",
+        "c": "Visibility not affected by mist or haze, no cloud below 10000ft, wind below 10kts.",
+        "d": "Visibility 20km, no cloud below 5000ft, no cumulonimbus or significant weather in the vicinity of the aerodrome, wind below 10 Kts"
+      },
+      "correct": "a"
+    },
+    {
+      "id": 12,
+      "question": "Ci, Cs, As, Ns, St. This sequence of clouds indicates the passage of a:",
+      "options": {
+        "a": "Cold front.",
+        "b": "Cold occlusion",
+        "c": "Warm front",
+        "d": "Warm occlusion"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 13,
+      "question": "Relative humidity is:",
+      "options": {
+        "a": "The ratio of water vapour in the air relative to what it can hold at 1013 hPa.",
+        "b": "The ratio of water in the air relative to what it could hold at 15 degrees C.",
+        "c": "The ratio of water vapour in the air relative to what it could hold at a particular temperature and pressure.",
+        "d": "The ratio of water in the air relative to what it could hold at 105 degrees C."
+      },
+      "correct": "c"
+    },
+    {
+      "id": 14,
+      "question": "A temperature group of 28/24 in a METAR means:",
+      "options": {
+        "a": "The temperature is 28 degrees C at the time of the report and expected to be 24 degrees at the end of the reporting period.",
+        "b": "The temperature is 28 degrees C and the dewpoint is 24.",
+        "c": "The dewpoint is 28 degrees C and the temperature is 24.",
+        "d": "The temperature is now 28 degrees C and expected to fall to 24 degrees C night."
+      },
+      "correct": "b"
+    },
+    {
+      "id": 15,
+      "question": "On a cross country flight you experience increasing left drift. Which statement is likely to be correct?",
+      "options": {
+        "a": "The QNH is changing to a lower value.",
+        "b": "The QNH is not affected.",
+        "c": "The QNH is changing to a higher value.",
+        "d": "It shouldn't be a change in the QNH as it's just a windy day."
+      },
+      "correct": "c"
+    },
+    {
+      "id": 16,
+      "question": "The passage of a cold front is indicated by:",
+      "options": {
+        "a": "A rise in dewpoint, a fall in temperature and the wind backing.",
+        "b": "A fall in dewpoint, a fall in temperature and the wind veering.",
+        "c": "A rise in dewpoint, a fall in temperature and the wind veering.",
+        "d": "A fall in dewpoint, a rise in temperature and the wind backing."
+      },
+      "correct": "b"
+    },
+    {
+      "id": 17,
+      "question": "An aircraft with a constant altimeter setting of 1009 hPa flies at a constant indicated altitude from A (QNH 1009) to B (QNH 1019). When overhead B the indicated altitude will be:",
+      "options": {
+        "a": "Higher or lower depending on the elevation of B.",
+        "b": "Lower than the actual altitude.",
+        "c": "1200ft above B.",
+        "d": "Higher than actual altitude."
+      },
+      "correct": "b"
+    },
+    {
+      "id": 18,
+      "question": "If the wind at altitude is 240/35, the most likely wind on the ground is:",
+      "options": {
+        "a": "270/20",
+        "b": "250/40",
+        "c": "230/35",
+        "d": "220/20"
+      },
+      "correct": "d"
+    },
+    {
+      "id": 19,
+      "question": "The environmental lapse rate is observed to be 2.5 degrees C / 1000 feet. Which of the following statements is correct?",
+      "options": {
+        "a": "A dry parcel of air would be stable if it was forced to rise.",
+        "b": "A dry parcel of air would be unstable if it was forced to rise.",
+        "c": "A saturated parcel of air would be stable if it was forced to rise.",
+        "d": "A saturated parcel of air would dry if it was forced to rise."
+      },
+      "correct": "a"
+    },
+    {
+      "id": 20,
+      "question": "Which of the following statements is correct?",
+      "options": {
+        "a": "The wind blowing anticlockwise round a depression in the northern hemisphere is deflected inwards towards the low pressure by the net effect of Coriolis and pressure gradient forces.",
+        "b": "The wind blowing anticlockwise round a depression in the northern hemisphere is deflected outwards away from the low pressure by the net effect of Coriolis and pressure gradient forces.",
+        "c": "The wind blowing clockwise round an anticyclone in the northern hemisphere the wind speed will be less than in a depression with the same isobar spacing.",
+        "d": "The wind blowing clockwise round an anticyclone in the northern Hemisphere is deflected inwards by the gradient wind."
+      },
+      "correct": "a"
+    },
+    {
+      "id": 21,
+      "question": "The temperature at 11000 feet AMSL is forecast to be minus 5 degrees C. Compared to the International Standard Atmosphere (ISA), this is:",
+      "options": {
+        "a": "ISA -2 degrees C.",
+        "b": "ISA +2 degrees C.",
+        "c": "ISA -7 degrees C.",
+        "d": "ISA +5 degrees C."
+      },
+      "correct": "b"
+    },
+    {
+      "id": 22,
+      "question": "Air density is proportional to:",
+      "options": {
+        "a": "Temperature and inversely proportional to pressure.",
+        "b": "Pressure and inversely proportional to temperature.",
+        "c": "Temperature and humidity.",
+        "d": "Pressure and relative humidity."
+      },
+      "correct": "b"
+    },
+    {
+      "id": 23,
+      "question": "On a cross country flight, you experience increasing left drift. Which statement is likely to be correct?",
+      "options": {
+        "a": "The QNH is rising to a higher value.",
+        "b": "The QNH is not affected.",
+        "c": "The QNH is falling to a lower value.",
+        "d": "The QFE is unchanged."
+      },
+      "correct": "a"
+    },
+    {
+      "id": 24,
+      "question": "Which of these statements is not true of Advection fog:",
+      "options": {
+        "a": "It is caused by warm moist air flowing over a cold surface.",
+        "b": "Sea fog is advection fog.",
+        "c": "Light winds cause advection fog to thicken.",
+        "d": "It occurs most frequently during the passage of a frontal system."
+      },
+      "correct": "d"
+    },
+    {
+      "id": 25,
+      "question": "All of these types of contamination are dangerous, which is likely to be the greatest hazard to light aircraft:",
+      "options": {
+        "a": "Rime ice.",
+        "b": "Hoar frost",
+        "c": "Clear ice.",
+        "d": "Cloudy ice."
+      },
+      "correct": "c"
+    },
+    {
+      "id": 26,
+      "question": "Cloud bases in TAFS and METARS are given in heights:",
+      "options": {
+        "a": "Based on official aerodrome level.",
+        "b": "Based on QFE.",
+        "c": "Based on QNH.",
+        "d": "Above the published height of the threshold of the runway in use at the time of the observation."
+      },
+      "correct": "a"
+    },
+    {
+      "id": 27,
+      "question": "The Katabatic wind:",
+      "options": {
+        "a": "Is weaker than the Anabatic wind.",
+        "b": "Is stronger than the Anabatic wind.",
+        "c": "Is approximately the same speed as the Anabatic wind",
+        "d": "Never exceeds 15 knots."
+      },
+      "correct": "b"
+    },
+    {
+      "id": 28,
+      "question": "The rate of fall of pressure with increasing altitude is:",
+      "options": {
+        "a": "Greater in cold air than warm air",
+        "b": "Greater in warm air than cold air.",
+        "c": "Is variable with increasing height.",
+        "d": "Is the same for cold and warm air."
+      },
+      "correct": "a"
+    },
+    {
+      "id": 29,
+      "question": "Air density will be low when:",
+      "options": {
+        "a": "Pressure and temperature are low.",
+        "b": "Pressure and temperature are high.",
+        "c": "Pressure is low and temperature is high.",
+        "d": "Pressure is high and temperature is low"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 30,
+      "question": "The temperature at 10000 feet above mean sea level in the International Standard Atmosphere should be:",
+      "options": {
+        "a": "-5 degrees C.",
+        "b": "-10 degrees C.",
+        "c": "-15 degrees C",
+        "d": "-20 degrees C."
+      },
+      "correct": "a"
+    },
+    {
+      "id": 31,
+      "question": "The symbol on a weather chart means: (S-curve symbol)",
+      "options": {
+        "a": "Rain showers.",
+        "b": "Snow showers.",
+        "c": "Visibility reduced by smoke.",
+        "d": "Severe sand or dust haze."
+      },
+      "correct": "d"
+    },
+    {
+      "id": 32,
+      "question": "The symbol on a weather chart means: (triangular teeth on line symbol)",
+      "options": {
+        "a": "A cold front.",
+        "b": "A warm front.",
+        "c": "An occluded front.",
+        "d": "A mountain wave."
+      },
+      "correct": "a"
+    },
+    {
+      "id": 33,
+      "question": "What is the dewpoint temperature?",
+      "options": {
+        "a": "The temperature below which dew cannot form.",
+        "b": "The temperature at which air becomes saturated if cooled at constant pressure.",
+        "c": "The temperature at which air can support more water vapour.",
+        "d": "The temperature above which the relative humidity is greater than 100 %."
+      },
+      "correct": "b"
+    },
+    {
+      "id": 34,
+      "question": "The decode of the following TAF is: LCLK 2008 12010KT 9999 DZ SCTO10TCU TEMPO 2023 5000 BKN010+SHRAGR",
+      "options": {
+        "a": "Larnaca, wind 200/8 Kts to 120/10kts, 10+n.mls visibility, stratocumulus at 10000ft. broken cumulus at 2000ft., temporarily, between 2000UTC and 2300UTC, broken cumulonimbus and showers of rain reaching to ground level.",
+        "b": "Larnaca, wind 200/8kts to 120/10kts 10+n.mls visibility, drizzle, scattered at base 1000ft.temporarily down to 100ft.,broken cumulonimbus at 2000ft., temporarily from 2000UTC to 2300UTC, broken cumulonimbus and showers of rain, heavy at times.",
+        "c": "Larnaca, 2000UTC to 0800UTC, wind 120 degrees magnetic at 10 mph, visibility 10 Nm., drizzle, cloud 3-4 oktas towering cumulus base 1000 feet, 5-7 oktas of cloud at 2000 feet temporarily, between 2000UTC and 2300UTC visibility 5000 metres with 5-7 oktas cumulonimbus at 1000ft with heavy rain showers and hail.",
+        "d": "Larnaca, 0000UTC-0800UTC, wind 120 degrees true at 10kts. visibility greater than 10 kilometres, drizzle, cloud 3-4 oktas towering cumulus base 1000ft., 5-7 other cloud, base 2000ft.; temporarily between 2000UTC and 2300UTC, visibility reduced to 5000 meters, 5-7 oktas cumulonimbus base 1000ft. with heavy showers and hail."
+      },
+      "correct": "d"
+    },
+    {
+      "id": 35,
+      "question": "The ICAO Standard Atmosphere assumes a pressure of 1013 hPa and a temperature of +15 degrees C at mean sea level. What are the pressure and temperature values at a pressure altitude of 5000 feet?",
+      "options": {
+        "a": "826 hPa and +2 degrees C.",
+        "b": "843 hPa and +5 degrees C.",
+        "c": "799 hPa and – 1 degree C.",
+        "d": "805 hPa and +1 degree C."
+      },
+      "correct": "b"
+    },
+    {
+      "id": 36,
+      "question": "Winds that blow round an anticyclone (high pressure) in the northern hemisphere are shown on a low level weather chart as blowing in:",
+      "options": {
+        "a": "A clockwise direction.",
+        "b": "An anticlockwise direction.",
+        "c": "A clockwise direction if it is a warm Airmass.",
+        "d": "An anticlockwise direction if it is a cold Airmass."
+      },
+      "correct": "a"
+    },
+    {
+      "id": 37,
+      "question": "Thickening Cu and Cb, temperature falling, dewpoint falling, pressure falling, wind increasing, heavy rain, rapid wind veer, pressure rise, thinning Cu. This sequence indicates the passage of a:",
+      "options": {
+        "a": "Cold occlusion.",
+        "b": "Cold Front.",
+        "c": "Warm Front",
+        "d": "Warm occlusion."
+      },
+      "correct": "b"
+    },
+    {
+      "id": 38,
+      "question": "You are flying in a cold sector at or below the freezing level. Rain is falling from warmer air from an overlying warm front. What type of icing are you likely to get?",
+      "options": {
+        "a": "Carburettor Ice.",
+        "b": "Rain or clear Ice.",
+        "c": "Rime Ice",
+        "d": "No ice will form."
+      },
+      "correct": "b"
+    },
+    {
+      "id": 39,
+      "question": "Sea breezes and land breezes develop along coastal areas, which of these statements is correct:",
+      "options": {
+        "a": "The vertical extent of sea breezes is up to 5000 feet",
+        "b": "The horizontal motion of air in a land breeze is called convection.",
+        "c": "Sea breezes form when the land heats up during the day.",
+        "d": "Land breezes form when the sea cools down in winter."
+      },
+      "correct": "c"
+    },
+    {
+      "id": 40,
+      "question": "Lenticularis clouds over mountain ranges indicate to a light aircraft, approaching from downwind, the likely presence of:",
+      "options": {
+        "a": "Severe turbulence especially on the leeward side with the presence of rotor clouds.",
+        "b": "Strong Katabatic down currents and turbulence after the mountains are crossed.",
+        "c": "Strong down currents immediately before the tops of the mountains and strong up currents immediately after crossing.",
+        "d": "No turbulence or up/down currents are likely as lenticular clouds form at too high an altitude above mountains to have an effect on an aircraft."
+      },
+      "correct": "a"
+    }
+  ]
+}

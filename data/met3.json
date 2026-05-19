@@ -1,0 +1,447 @@
+{
+  "exam": "PPL Exam Paper MET 3 – Meteorology",
+  "source": "Griffon Aviation (Avgoustinos) Ltd",
+  "total_questions": 40,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The phrase TREND may be found in:",
+      "options": {
+        "a": "TAF",
+        "b": "METAR",
+        "c": "VOLMET",
+        "d": "PIRREP"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 2,
+      "question": "The visibility measurement in TAFS / METARS is supplied in:",
+      "options": {
+        "a": "feet",
+        "b": "metres",
+        "c": "yards",
+        "d": "inches"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 3,
+      "question": "To measure vertical distance above MSL the altimeter subscale should be set:",
+      "options": {
+        "a": "QFE",
+        "b": "1013.2 mbs",
+        "c": "QNH",
+        "d": "Pressure altitude"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 4,
+      "question": "What is meant by the term dewpoint?",
+      "options": {
+        "a": "the temperature at which condensation and evaporation are equal",
+        "b": "the temperature at which dew will always form",
+        "c": "the temperature to which air must be cooled to become saturated",
+        "d": "the spread between actual temperature and the temperature during evaporation"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 5,
+      "question": "The suffix nimbus used in naming clouds means:",
+      "options": {
+        "a": "a cloud with extensive vertical development",
+        "b": "a rain cloud",
+        "c": "a middle cloud containing ice pellets",
+        "d": "an accumulation of clouds"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 6,
+      "question": "Moist, stable air flowing upslope can be expected to:",
+      "options": {
+        "a": "produce stratus type clouds",
+        "b": "produce a temperature inversion",
+        "c": "cause showers and thunderstorms",
+        "d": "develop convective turbulence"
+      },
+      "correct": "a"
+    },
+    {
+      "id": 7,
+      "question": "What are the characteristics of unstable air?",
+      "options": {
+        "a": "turbulence and good surface visibility",
+        "b": "turbulence and poor surface visibility",
+        "c": "nimbostratus clouds and good surface visibility",
+        "d": "nimbostratus clouds and poor surface visibility"
+      },
+      "correct": "a"
+    },
+    {
+      "id": 8,
+      "question": "A moist unstable air mass is characterised by:",
+      "options": {
+        "a": "cumuliform clouds and showery precipitation",
+        "b": "poor visibility and smooth air",
+        "c": "Stratiform clouds and continuous precipitation",
+        "d": "fog and drizzle"
+      },
+      "correct": "a"
+    },
+    {
+      "id": 9,
+      "question": "In which environment is aircraft structural ice most likely to have the highest accumulation rate?",
+      "options": {
+        "a": "cumulus cloud",
+        "b": "freezing drizzle",
+        "c": "stratus cloud",
+        "d": "freezing rain"
+      },
+      "correct": "d"
+    },
+    {
+      "id": 10,
+      "question": "Why is frost considered hazardous to flight?",
+      "options": {
+        "a": "the increased weight requires a shorter take off distance",
+        "b": "frost has no effect on basic aerodynamic shape of the airfoil",
+        "c": "frost increases control effectiveness",
+        "d": "frost causes early airflow separation resulting in a loss of lift"
+      },
+      "correct": "d"
+    },
+    {
+      "id": 11,
+      "question": "Crests of standing mountain waves may be marked by stationary, lens shaped clouds known as:",
+      "options": {
+        "a": "cumulonimbus mamma clouds",
+        "b": "standing lenticular clouds",
+        "c": "roll clouds",
+        "d": "rotor clouds"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 12,
+      "question": "Hazardous windshear is commonly encountered near the ground:",
+      "options": {
+        "a": "near thunderstorms and during periods when the wind velocity is stronger than 35 kts",
+        "b": "during periods when the wind velocity is stronger than 35 kts and near mountain valleys",
+        "c": "during periods of strong temperature inversion and near thunderstorms",
+        "d": "near mountain valleys and on the windward side of a hill or mountain"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 13,
+      "question": "Which conditions result in the formation of frost?",
+      "options": {
+        "a": "the freezing of dew",
+        "b": "the collecting surface's temperature is at or below freezing and small droplets of moisture fall on the collecting surface",
+        "c": "the temperature of the collecting surface is at or below the dewpoint of the adjacent air and the dewpoint is below freezing",
+        "d": "small drops of moisture falling on the collecting surface when the surrounding air temperature is at or below freezing"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 14,
+      "question": "Possible mountain wave turbulence would be anticipated when winds of:",
+      "options": {
+        "a": "20 Kts or greater blow across a mountain ridge, and the air is unstable",
+        "b": "40 Kts or greater blow across a mountain ridge, and the air is stable",
+        "c": "30 Kts or greater blow down a mountain valley, and the air is unstable",
+        "d": "50 Kts or greater blow parallel to a mountain peak, and the air is stable"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 15,
+      "question": "Frost which has not been removed from the lifting surfaces of an airplane before flight:",
+      "options": {
+        "a": "may prevent the airplane from becoming airborne",
+        "b": "will change the camber (curvature of the wing) thereby increasing lift during the take off",
+        "c": "may cause the airplane to become airborne with a lower angle of attack and at a lower indicated airspeed",
+        "d": "would present no problems since frost will blow off when the airplane starts moving during take off"
+      },
+      "correct": "a"
+    },
+    {
+      "id": 16,
+      "question": "A pilot can expect a wind shear zone in a temperature inversion, whenever the wind speed at 2000 to 4000 feet above the surface is at least:",
+      "options": {
+        "a": "5 Kts",
+        "b": "10 Kts",
+        "c": "15 Kts",
+        "d": "25 Kts"
+      },
+      "correct": "d"
+    },
+    {
+      "id": 17,
+      "question": "What feature is normally associated with the cumulus stage of a thunderstorm?",
+      "options": {
+        "a": "roll cloud",
+        "b": "continuous updraft",
+        "c": "frequent lightning",
+        "d": "beginning of rain at the surface"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 18,
+      "question": "Which weather phenomenon signals the beginning of the mature stage of a thunderstorm?",
+      "options": {
+        "a": "the appearance of an anvil top",
+        "b": "precipitation is beginning to fall",
+        "c": "growth rate of cloud is maximum",
+        "d": "strong turbulence in the cloud"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 19,
+      "question": "A non-frontal, narrow band of active thunderstorms that often develop ahead of a cold front is known as:",
+      "options": {
+        "a": "an occlusion",
+        "b": "a prefrontal system",
+        "c": "a squall line",
+        "d": "a shear line"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 20,
+      "question": "Thunderstorms which generally produce the most intense hazard to aircraft are:",
+      "options": {
+        "a": "air mass thunderstorms",
+        "b": "steady state thunderstorms",
+        "c": "warm front thunderstorms",
+        "d": "squall line thunderstorms"
+      },
+      "correct": "d"
+    },
+    {
+      "id": 21,
+      "question": "Upon encountering severe turbulence, which condition should the pilot attempt to maintain?",
+      "options": {
+        "a": "constant altitude",
+        "b": "constant airspeed (VA)",
+        "c": "level flight attitude",
+        "d": "constant altitude and constant airspeed"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 22,
+      "question": "What conditions are necessary for the formation of thunderstorms?",
+      "options": {
+        "a": "lifting force, high humidity and unstable conditions",
+        "b": "high humidity, high temperature and cumulus clouds",
+        "c": "low pressure, high humidity and cumulus clouds",
+        "d": "lifting force, high temperature and unstable conditions"
+      },
+      "correct": "a"
+    },
+    {
+      "id": 23,
+      "question": "During the life cycle of a thunderstorm, which stage is characterised predominately by downdrafts?",
+      "options": {
+        "a": "cumulus",
+        "b": "dissipating",
+        "c": "mature",
+        "d": "anvil"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 24,
+      "question": "Low level turbulence can occur and icing can become hazardous in:",
+      "options": {
+        "a": "advection fog",
+        "b": "rain induced fog",
+        "c": "upslope fog",
+        "d": "steam fog"
+      },
+      "correct": "d"
+    },
+    {
+      "id": 25,
+      "question": "Thunderstorms reach their greatest intensity during the:",
+      "options": {
+        "a": "updraft stage",
+        "b": "mature stage",
+        "c": "downdraft stage",
+        "d": "cumulus stage"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 26,
+      "question": "In which situation is advection fog most likely to form?",
+      "options": {
+        "a": "a warm moist air mass on the windward side of mountains",
+        "b": "an air mass moving inland from the coast in winter",
+        "c": "a light breeze blowing colder air out to sea",
+        "d": "warm moist air settling over a warmer surface under no wind conditions"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 27,
+      "question": "Which weather phenomenon is always associated with a thunderstorm?",
+      "options": {
+        "a": "lightning",
+        "b": "heavy rain showers",
+        "c": "supercooled raindrops",
+        "d": "hail"
+      },
+      "correct": "a"
+    },
+    {
+      "id": 28,
+      "question": "Which is considered to be the most hazardous condition when flying in the vicinity of thunderstorms?",
+      "options": {
+        "a": "static electricity",
+        "b": "lighting",
+        "c": "St. Elmo's fire",
+        "d": "wind shear and turbulence"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 29,
+      "question": "If there is thunderstorm activity in the vicinity of an airport at which you plan to land, which hazardous and invincible atmospheric phenomenon might be expected on the landing approach?",
+      "options": {
+        "a": "St. Elmo's fire",
+        "b": "wind shear turbulence",
+        "c": "tornadoes",
+        "d": "virga"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 30,
+      "question": "The development of thermals depends upon:",
+      "options": {
+        "a": "a counterclockwise circulation of air",
+        "b": "temperature inversions",
+        "c": "solar heating",
+        "d": "uneven terrain"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 31,
+      "question": "The layer of the Earth's atmosphere which most concerns us as aviators is called the:",
+      "options": {
+        "a": "stratosphere",
+        "b": "tropopause",
+        "c": "troposphere",
+        "d": "mesosphere"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 32,
+      "question": "The international standard atmosphere is defined for MSL as:",
+      "options": {
+        "a": "1015.25 mbs, 15°C and density of 1225 grams per cubic metre",
+        "b": "1015.25 mbs, 15°C with a lapse rate of 1.98°C per 1000 feet",
+        "c": "1013.25 mbs, 15°C with a lapse rate of 1.98°C per 1000 feet and a humidity of 5%",
+        "d": "1013.25 mbs, 15°C a temperature lapse rate of 1.98°C per 1000 feet and a density of 1225 grams per cubic metre"
+      },
+      "correct": "d"
+    },
+    {
+      "id": 33,
+      "question": "The most active (mature stage) of a thunderstorm can be recognised by:",
+      "options": {
+        "a": "rain commencing to fall from the bottom of the cloud",
+        "b": "a general reduction of turbulence in the lower layers",
+        "c": "the formation of the characteristic anvil shaped projection at the top of the cloud",
+        "d": "an increase in cloud's rate of vertical development"
+      },
+      "correct": "a"
+    },
+    {
+      "id": 34,
+      "question": "Your weather forecast states the surface wind is SW backing SE. In compass degrees this is:",
+      "options": {
+        "a": "225 becoming 315",
+        "b": "045 becoming 135",
+        "c": "225 becoming 135",
+        "d": "015 becoming 325"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 35,
+      "question": "A weather report is a statement of the weather conditions:",
+      "options": {
+        "a": "Expected at a future period",
+        "b": "That have occurred previously",
+        "c": "That are being experienced at present",
+        "d": "That are forecast for the following day"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 36,
+      "question": "You notice large cumulus clouds building up. Which of the following types of precipitation would you expect?",
+      "options": {
+        "a": "Drizzle",
+        "b": "Showers",
+        "c": "Continuous rain",
+        "d": "Virga"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 37,
+      "question": "The amount of water vapor in the air as a percentage of what the air could hold at the same temperature and pressure is known as:",
+      "options": {
+        "a": "Dew point",
+        "b": "Relative humidity",
+        "c": "Evaporation point",
+        "d": "Condensation point"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 38,
+      "question": "You are flying in a cloud at an ambient temperature of 5°C. Which of the following is most probable?",
+      "options": {
+        "a": "Light airframe icing",
+        "b": "Severe airframe icing",
+        "c": "No risk of icing",
+        "d": "Carburetor icing"
+      },
+      "correct": "d"
+    },
+    {
+      "id": 39,
+      "question": "In an anticyclone the winds blow:",
+      "options": {
+        "a": "Clockwise round the high pressure in the Northern hemisphere",
+        "b": "Clockwise round the high pressure in the Southern hemisphere",
+        "c": "Clockwise round the low pressure in the Northern hemisphere",
+        "d": "Anti-clockwise always"
+      },
+      "correct": "a"
+    },
+    {
+      "id": 40,
+      "question": "You are flying towards a range of hills and have strong tail wind. Where would you expect to find upcurrents?",
+      "options": {
+        "a": "As you approach the hills",
+        "b": "After crossing the hills",
+        "c": "On both sides of the hills",
+        "d": "You will not encounter any up currents"
+      },
+      "correct": "a"
+    }
+  ]
+}

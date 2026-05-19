@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PPL Met Quiz</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- ═══════════════════════════════════ HOME ═══════════════════════════════════ -->
+  <div id="screen-home" class="screen active">
+    <div class="home-inner">
+      <div class="home-logo">✈</div>
+      <h1 class="home-title">PPL Meteorology</h1>
+      <p class="home-subtitle">PPL · Prüfungsvorbereitung</p>
+
+      <div class="exam-grid">
+        <button class="exam-card" onclick="startExam('met1')">
+          <span class="exam-label">MET 1</span>
+          <span class="exam-meta">40 Fragen</span>
+        </button>
+        <button class="exam-card" onclick="startExam('met2')">
+          <span class="exam-label">MET 2</span>
+          <span class="exam-meta">40 Fragen</span>
+        </button>
+        <button class="exam-card" onclick="startExam('met3')">
+          <span class="exam-label">MET 3</span>
+          <span class="exam-meta">40 Fragen</span>
+        </button>
+      </div>
+
+      <div class="pass-info">
+        <div class="pass-info-row">
+          <span class="pass-badge badge-school">90 %</span>
+          <span>Flugschule Mock Exam</span>
+        </div>
+        <div class="pass-info-row">
+          <span class="pass-badge badge-auth">75 %</span>
+          <span>Flugbehörde</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ═══════════════════════════════════ QUIZ ═══════════════════════════════════ -->
+  <div id="screen-quiz" class="screen">
+
+    <header class="quiz-header">
+      <button class="btn-back" onclick="confirmGoHome()" title="Zurück zur Auswahl">✕</button>
+      <div class="quiz-header-center">
+        <span id="exam-label-display">MET 1</span>
+        <span id="progress-text">Frage 1 von 40</span>
+      </div>
+      <div class="score-chip">
+        <span id="score-display">0</span>/<span id="total-display">40</span>
+      </div>
+    </header>
+
+    <div class="progress-track">
+      <div class="progress-fill" id="progress-fill"></div>
+    </div>
+
+    <main class="quiz-main">
+
+      <!-- Existing note (shown before answering) -->
+      <div id="hint-box" class="hint-box hidden">
+        <span class="hint-icon">📝</span>
+        <span id="hint-text"></span>
+      </div>
+
+      <!-- Question -->
+      <div class="question-card">
+        <p id="question-text"></p>
+      </div>
+
+      <!-- Options -->
+      <div id="options-container"></div>
+
+      <!-- Feedback area (shown after submit) -->
+      <div id="feedback-area" class="hidden">
+        <div id="feedback-banner"></div>
+
+        <!-- Note field (shown when wrong) -->
+        <div id="note-area" class="hidden">
+          <label class="note-label">
+            <span class="note-icon">✏️</span> Deine Eselsbrücke:
+          </label>
+          <textarea
+            id="note-input"
+            class="note-textarea"
+            placeholder="Schreib dir hier eine Eselsbrücke auf — sie erscheint beim nächsten Mal als Hinweis..."
+            rows="3"
+          ></textarea>
+        </div>
+      </div>
+
+    </main>
+
+    <footer class="quiz-footer">
+      <button id="btn-submit" class="btn-primary" onclick="submitAnswer()" disabled>
+        Antwort prüfen
+      </button>
+      <button id="btn-next" class="btn-primary hidden" onclick="nextQuestion()">
+        Nächste Frage →
+      </button>
+    </footer>
+
+  </div>
+
+  <!-- ════════════════════════════════ RESULTS ════════════════════════════════════ -->
+  <div id="screen-results" class="screen">
+    <div class="results-inner">
+      <div class="results-icon" id="results-icon">🎯</div>
+      <h2 class="results-title">Quiz abgeschlossen!</h2>
+      <div id="results-exam-label" class="results-exam-label"></div>
+
+      <div class="score-circle">
+        <span id="results-percent" class="score-percent">0%</span>
+        <span id="results-fraction" class="score-fraction">0 / 40 richtig</span>
+      </div>
+
+      <table class="pass-table">
+        <thead>
+          <tr>
+            <th>Prüfung</th>
+            <th>Mindest-%</th>
+            <th>Ergebnis</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr id="row-authority">
+            <td>Flugbehörde</td>
+            <td>75 %</td>
+            <td id="cell-authority"></td>
+          </tr>
+          <tr id="row-school">
+            <td>Flugschule (Mock)</td>
+            <td>90 %</td>
+            <td id="cell-school"></td>
+          </tr>
+        </tbody>
+      </table>
+
+      <p id="results-message" class="results-message"></p>
+
+      <div class="results-actions">
+        <button class="btn-primary" onclick="retryExam()">Nochmal versuchen</button>
+        <button class="btn-secondary" onclick="goHome()">Andere Prüfung wählen</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,447 @@
+{
+  "exam": "PPL Exam Paper MET 2 – Meteorology",
+  "source": "Griffon Aviation (Avgoustinos) Ltd",
+  "total_questions": 40,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Every physical process of weather is accompanied by, or is a result of:",
+      "options": {
+        "a": "Movement of air",
+        "b": "Pressure differential",
+        "c": "Heat exchange",
+        "d": "Moisture"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 2,
+      "question": "One weather phenomenon which will always occur when flying across a front is:",
+      "options": {
+        "a": "Change in wind",
+        "b": "A large precipitation area, if the frontal surface is steep",
+        "c": "A large temperature change, especially at high altitudes",
+        "d": "The presence of clouds, either ahead of or behind the front"
+      },
+      "correct": "a"
+    },
+    {
+      "id": 3,
+      "question": "If there is a thunderstorm activity in the vicinity of an airport at which you plan to land, which hazardous and invincible atmospheric phenomenon might be expected on the landing approach:",
+      "options": {
+        "a": "St. Elmo's fire",
+        "b": "Windshear turbulence",
+        "c": "Tornadoes",
+        "d": "Virga"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 4,
+      "question": "What conditions are necessary for the formation of thunderstorms?",
+      "options": {
+        "a": "Lifting force, high humidity and unstable conditions",
+        "b": "High humidity, high temperature and cumulus cloud",
+        "c": "Low pressure, high humidity and cumulus cloud",
+        "d": "Lifting force, high temperature and unstable conditions"
+      },
+      "correct": "a"
+    },
+    {
+      "id": 5,
+      "question": "Thunderstorms reach their greatest intensity during the:",
+      "options": {
+        "a": "Updraft stage",
+        "b": "Mature stage",
+        "c": "Downdraft stage",
+        "d": "Cumulus stage"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 6,
+      "question": "Which weather phenomenon is always associated with a thunderstorm?",
+      "options": {
+        "a": "Lighting",
+        "b": "Heavy rain showers",
+        "c": "Supercooled water droplets",
+        "d": "Hail"
+      },
+      "correct": "a"
+    },
+    {
+      "id": 7,
+      "question": "One in-flight condition necessary for structural icing to form is:",
+      "options": {
+        "a": "Cumuliform clouds",
+        "b": "Small temperature / dewpoint spread",
+        "c": "Stratiform clouds",
+        "d": "Visible moisture"
+      },
+      "correct": "d"
+    },
+    {
+      "id": 8,
+      "question": "The International Standard Atmosphere assumes:",
+      "options": {
+        "a": "Temperature of +15 degrees F, pressure 1013.25 mbs.",
+        "b": "Temperature of +15 degrees C, pressure 1012.35 mbs.",
+        "c": "Temperature of +15 degrees C, pressure 1013.25 mbs.",
+        "d": "Temperature of +15 degrees F, pressure 1013.25 in."
+      },
+      "correct": "c"
+    },
+    {
+      "id": 9,
+      "question": "The Dry Adiabatic Lapse Rate (DALR) assumes a reduction in temperature of:",
+      "options": {
+        "a": "1.5 degrees C per 1000 ft.",
+        "b": "3 degrees C per 1000 ft.",
+        "c": "1.98 degrees C per 1000 ft.",
+        "d": "4 degrees C per 1000ft"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 10,
+      "question": "The Saturated Adiabatic Lapse Rate (SALR) assumes a reduction in temperature of:",
+      "options": {
+        "a": "3 degrees C per 1000 ft.",
+        "b": "1.98 degrees C per 1000 ft.",
+        "c": "1.5 degrees C per 1000 ft.",
+        "d": "4 degrees C per 1000ft"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 11,
+      "question": "If moist stable air is forced up a mountain slope what type of cloud will form?",
+      "options": {
+        "a": "Cirrus (CI)",
+        "b": "Stratus (St)",
+        "c": "Cumulus (Cu)",
+        "d": "Altocumulus (Ac)"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 12,
+      "question": "The transition zone where two different air masses meet is called:",
+      "options": {
+        "a": "a barrier",
+        "b": "a front",
+        "c": "a cold front",
+        "d": "a warm front"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 13,
+      "question": "Cold air masses are:",
+      "options": {
+        "a": "the same as warm air masses",
+        "b": "lighter than warm air masses",
+        "c": "heavier than warm air masses therefore wedge under warm air masses",
+        "d": "lighter than warm air masses therefore slide over warm air masses"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 14,
+      "question": "What is the most recognised discontinuity across a front?",
+      "options": {
+        "a": "Temperature",
+        "b": "Moisture",
+        "c": "Pressure",
+        "d": "Wind"
+      },
+      "correct": "a"
+    },
+    {
+      "id": 15,
+      "question": "What type of precipitation is associated with cumuliform clouds?",
+      "options": {
+        "a": "Continuous",
+        "b": "Showery",
+        "c": "Intense",
+        "d": "Drizzle"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 16,
+      "question": "What kind of weather is associated with Cumulonimbus clouds?",
+      "options": {
+        "a": "Hail and thunder",
+        "b": "Drizzle and hail",
+        "c": "Continuous rain",
+        "d": "Showers hail and thunder"
+      },
+      "correct": "d"
+    },
+    {
+      "id": 17,
+      "question": "The International Standard Atmosphere uses as its reference point:",
+      "options": {
+        "a": "Mean Sea Level temperature and pressure",
+        "b": "Surface temperature and pressure",
+        "c": "Aerodrome temperature and humidity",
+        "d": "Aerodrome density altitude"
+      },
+      "correct": "a"
+    },
+    {
+      "id": 18,
+      "question": "When air temperature and dew point coincide, it is likely to give rise to:",
+      "options": {
+        "a": "cloud base",
+        "b": "cloud tops",
+        "c": "good visibility",
+        "d": "clear skies"
+      },
+      "correct": "a"
+    },
+    {
+      "id": 19,
+      "question": "What type of cloud characterises stable air?",
+      "options": {
+        "a": "Cumuliform",
+        "b": "Nimbo Stratus",
+        "c": "Stratiform",
+        "d": "Cumulonimbus"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 20,
+      "question": "The lowest cloud base is likely with:",
+      "options": {
+        "a": "Stratus",
+        "b": "cumulus",
+        "c": "Stratocumulus",
+        "d": "Cirrus"
+      },
+      "correct": "a"
+    },
+    {
+      "id": 21,
+      "question": "The three stages of thunderstorm are in the following order:",
+      "options": {
+        "a": "Cumulus - Dissipating - Mature",
+        "b": "Mature - Cumulus - Dissipating",
+        "c": "Cumulus – Mature – Dissipating",
+        "d": "Building – Thunderstorm – Dissipating"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 22,
+      "question": "A line on a map joining places of equal sea level pressure is called:",
+      "options": {
+        "a": "An isobar",
+        "b": "An isotach",
+        "c": "A pressure gradient",
+        "d": "An equi-pressure line"
+      },
+      "correct": "a"
+    },
+    {
+      "id": 23,
+      "question": "Severe turbulence is most likely within:",
+      "options": {
+        "a": "stratus",
+        "b": "stratocumulus",
+        "c": "cumulus",
+        "d": "Cirrus"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 24,
+      "question": "Carburettor icing is most common within:",
+      "options": {
+        "a": "+27°C to -15°C",
+        "b": "+30°C to -20°C",
+        "c": "+27°C to -5°C",
+        "d": "+40°C to -20°C"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 25,
+      "question": "What type of aviation hazard is most often associated with lenticular clouds?",
+      "options": {
+        "a": "thunderstorms",
+        "b": "standing waves",
+        "c": "airframe icing",
+        "d": "Hail"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 26,
+      "question": "Rotor or roll cloud warns of:",
+      "options": {
+        "a": "severe turbulence",
+        "b": "gales",
+        "c": "Hail",
+        "d": "thunderstorms"
+      },
+      "correct": "a"
+    },
+    {
+      "id": 27,
+      "question": "The formation of advection fog is most likely with:",
+      "options": {
+        "a": "high relative humidity, clear skies, light winds 2-8 knots",
+        "b": "low relative humidity, Overcast, winds 10-15 knots",
+        "c": "warm moist air, moving over cold ground with a temperature below the air's dewpoint",
+        "d": "light winds with cold air moving over warm ground"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 28,
+      "question": "The formation of radiation fog is most likely with:",
+      "options": {
+        "a": "high relative humidity, clear skies, light winds 2-8 knots",
+        "b": "warm moist air, moving over cold ground with a temperature below the air's dewpoint",
+        "c": "light winds with cold air moving over warm ground",
+        "d": "low relative humidity, Overcast, winds 15-20 knots"
+      },
+      "correct": "a"
+    },
+    {
+      "id": 29,
+      "question": "In Northern Hemisphere wind circulation around a low pressure system is:",
+      "options": {
+        "a": "clockwise",
+        "b": "anti-clockwise",
+        "c": "variable",
+        "d": "Westerly"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 30,
+      "question": "An approaching warm front will usually give:",
+      "options": {
+        "a": "light winds becoming calm with intermittent drizzle",
+        "b": "Overcast, raising cloud base, heavy rain",
+        "c": "rain showers, heavy at times",
+        "d": "overcast, reducing cloud base, rain becoming continuous"
+      },
+      "correct": "d"
+    },
+    {
+      "id": 31,
+      "question": "Constant starboard drift indicates an aircraft is flying from:",
+      "options": {
+        "a": "low to high pressure system",
+        "b": "high to low pressure system",
+        "c": "a warm to cold front",
+        "d": "a cold to warm front"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 32,
+      "question": "Friction causes surface wind to:",
+      "options": {
+        "a": "weaken in strength and back in direction",
+        "b": "increase in strength and veer in direction",
+        "c": "remain steady with a variable direction",
+        "d": "increase in strength and back in direction"
+      },
+      "correct": "a"
+    },
+    {
+      "id": 33,
+      "question": "In the Northern Hemisphere the passage of either a cold or warm front causes:",
+      "options": {
+        "a": "wind to back",
+        "b": "pressure to change",
+        "c": "dewpoint to rise",
+        "d": "pressure to rise"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 34,
+      "question": "Flying from a low to high pressure system will lead to:",
+      "options": {
+        "a": "starboard drift",
+        "b": "port drift",
+        "c": "no drift",
+        "d": "variable drift"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 35,
+      "question": "An altimeter will over-read if not corrected when flying from:",
+      "options": {
+        "a": "a high to low pressure",
+        "b": "a low to high pressure system",
+        "c": "with constant port drift",
+        "d": "with constant starboard drift"
+      },
+      "correct": "a"
+    },
+    {
+      "id": 36,
+      "question": "An altimeter will under-read if not corrected when flying from:",
+      "options": {
+        "a": "a high to low pressure",
+        "b": "a low to high pressure",
+        "c": "with a constant starboard drift",
+        "d": "with a constant port drift"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 37,
+      "question": "The passage of a cold front will cause temperature to:",
+      "options": {
+        "a": "increase",
+        "b": "decrease",
+        "c": "remain constant",
+        "d": "variable temperatures"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 38,
+      "question": "Surface wind will at night:",
+      "options": {
+        "a": "back in direction and reduce in strength",
+        "b": "veer in direction and reduce in strength",
+        "c": "back in direction and increase in speed strength",
+        "d": "its direction will remain constant with variable strength"
+      },
+      "correct": "a"
+    },
+    {
+      "id": 39,
+      "question": "The code GR on a Met report represents:",
+      "options": {
+        "a": "mist",
+        "b": "smoke",
+        "c": "hail",
+        "d": "fog"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 40,
+      "question": "The symbol 9999 in a Met report denotes:",
+      "options": {
+        "a": "visibility in excess of 10 km",
+        "b": "no precipitation",
+        "c": "no cloud below 5000 ft",
+        "d": "no significant weather"
+      },
+      "correct": "a"
+    }
+  ]
+}
