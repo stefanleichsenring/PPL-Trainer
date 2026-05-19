@@ -1,6 +1,34 @@
 'use strict';
 
 /* ═══════════════════════════════════════════════════════════
+   Password lock
+   ═══════════════════════════════════════════════════════════ */
+
+const PASSWORD = 'JulienPPL';
+const UNLOCK_KEY = 'ppl_unlocked';
+
+function checkPassword() {
+  const input = document.getElementById('password-input');
+  const error = document.getElementById('lock-error');
+
+  if (input.value === PASSWORD) {
+    localStorage.setItem(UNLOCK_KEY, '1');
+    showScreen('home');
+  } else {
+    input.classList.add('error');
+    error.classList.remove('hidden');
+    input.value = '';
+    input.focus();
+    setTimeout(() => input.classList.remove('error'), 600);
+  }
+}
+
+// On page load: skip lock if already unlocked
+if (localStorage.getItem(UNLOCK_KEY) === '1') {
+  showScreen('home');
+}
+
+/* ═══════════════════════════════════════════════════════════
    Config
    ═══════════════════════════════════════════════════════════ */
 

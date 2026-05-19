@@ -8,8 +8,29 @@
 </head>
 <body>
 
+  <!-- ══════════════════════════════════ LOCK ═══════════════════════════════════ -->
+  <div id="screen-lock" class="screen active">
+    <div class="lock-inner">
+      <div class="home-logo">✈</div>
+      <h1 class="home-title">PPL Meteorology</h1>
+      <p class="home-subtitle">Bitte Passwort eingeben</p>
+      <div class="lock-form">
+        <input
+          id="password-input"
+          type="password"
+          class="lock-input"
+          placeholder="Passwort"
+          onkeydown="if(event.key==='Enter') checkPassword()"
+          autofocus
+        >
+        <p id="lock-error" class="lock-error hidden">Falsches Passwort</p>
+        <button class="btn-primary" onclick="checkPassword()">Entsperren</button>
+      </div>
+    </div>
+  </div>
+
   <!-- ═══════════════════════════════════ HOME ═══════════════════════════════════ -->
-  <div id="screen-home" class="screen active">
+  <div id="screen-home" class="screen">
     <div class="home-inner">
       <div class="home-logo">✈</div>
       <h1 class="home-title">PPL Meteorology</h1>
